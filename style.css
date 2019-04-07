@@ -3,9 +3,6 @@ body
     font-family:'Open Sans',sans-serif;
     background-color: black;
 }
-
-
-
 #container
 {
     width:1000px;
@@ -13,9 +10,6 @@ body
     background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(pi-1453836_1920.jpg);
     margin: 20px 20px;
 }
-
-
-
 #calculator
 {
     width: 320px;
@@ -29,8 +23,6 @@ body
     
 
 }
-
-
 #result
 {
     height:120px;
@@ -44,16 +36,12 @@ body
 	font-size: 15px;
 	color: #919191;
 }
-
-
 #output{
 	text-align: right;
 	height: 60px;
 	margin: 10px 20px;
 	font-size: 30px;
 }
-
-
 #keyboard{
 	height: 400px;
 }
@@ -86,27 +74,62 @@ body
 	outline: 0;
 }
 
-button:nth-child(4){
-	font-size: 20px;
-	background-color: #20b2aa;
-}
 
+button:nth-child(5){
+	font-size: 20px;
+	background-color: #515b4c;
+}
+button:nth-child(6){
+	font-size: 20px;
+	background-color: #515b4c;
+}
+button:nth-child(7){
+	font-size: 20px;
+	background-color: #515b4c;
+}
+/*button:nth-child(4){
+	font-size: 20px;
+	background-color: #7df442;
+}*/
 button:nth-child(8){
 	font-size: 20px;
-	background-color: #ffa500;
+	background-color: #515b4c;
 }
-
+button:nth-child(9){
+	font-size: 20px;
+	background-color: #7f3343;
+}
+button:nth-child(10){
+	font-size: 20px;
+	background-color: #7f3343;
+}
+button:nth-child(11){
+	font-size: 20px;
+	background-color: #7f3343;
+}
 button:nth-child(12){
 	font-size: 20px;
-	background-color: #f08080;
+	background-color: #7f3343;
 }
-
+button:nth-child(13){
+	font-size: 20px;
+	background-color: #ad712d;
+}button:nth-child(14){
+	font-size: 20px;
+	background-color: #ad712d;
+}button:nth-child(15){
+	font-size: 20px;
+	background-color: #ad712d;
+}
 button:nth-child(16){
 	font-size: 20px;
-	background-color: #7d93e0;
+	background-color: #ad712d;
 }
-
+button:nth-child(18){
+	font-size: 20px;
+	background-color: #7df442;
+}
 button:nth-child(20){
 	font-size: 20px;
-	background-color: #9477af;
+	background-color: #2ce014;
 }
